@@ -1,4 +1,4 @@
-# TEST PROJECT (DEV GAME)
+# TEST PROJECT (GAME DEV)
 ## 1. Copy resources to make a simple game
 ## 2. Game rule
 ### Start game
