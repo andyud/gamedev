@@ -1,5 +1,5 @@
 # TEST PROJECT (GAME DEV)
-## 1. Copy resources to make a simple game
+## 1. Copy resources to make a simple game: Unity or Cocos Creator
 ## 2. Game rule
 ### Start game
 - Random ball position
